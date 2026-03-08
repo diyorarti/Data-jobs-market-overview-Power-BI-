@@ -53,6 +53,8 @@ A stacked bar chart illustrates how work settings are distributed across experie
 
 This helps analyze how workplace flexibility varies with seniority.
 
+![Dashboard](assets/work_settings.png)
+
 ### 5. Job Category Analysis
 A detailed table provides insights into different data job categories including:
 - Machine Learning & AI
@@ -63,6 +65,8 @@ A detailed table provides insights into different data job categories including:
 - Cloud & Database
 
 The table displays job count, median salaries, and trend indicators for each category.
+
+![Dashboard](assets/job_category.png)
 
 ### 6. Job Title Drill-Through Analysis
 Users can drill through to a dedicated page for deeper analysis of a specific job title.
@@ -75,6 +79,9 @@ The drill-through page includes:
 - Geographic job distribution by country
 
 This feature enables a deeper exploration of specific roles in the data industry.
+
+![Dashboard](assets/Job_Title_drill_through.png)
+
 
 ### 7. Interactive Filtering
 The dashboard includes interactive filters such as:
