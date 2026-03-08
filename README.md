@@ -118,3 +118,19 @@ Most job opportunities appear to come from medium and large organizations, sugge
 
 ## 🛠 Tools & Technologies
 
+The following tools and technologies were used to build and analyze the dashboard:
+
+### Power BI
+Power BI was used as the primary tool for data visualization and dashboard development. It enabled the creation of interactive visuals, KPI cards, filters, and drill-through pages to explore the data job market.
+
+### Data Visualization Techniques
+Several visualization types were used to effectively present insights, including:
+- KPI Cards
+- Bar Charts
+- Line Charts
+- Stacked Bar Charts
+- Donut Charts
+- Tree Maps
+- Gauges
+- Geographic Maps
+- Interactive Tables
