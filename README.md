@@ -1,12 +1,11 @@
 # 📊 Data Jobs Market Overview Dashboard
+## Overview
+In this project, I analyze the data job market to uncover hidden patterns that are often not visible in individual job descriptions. The goal of this analysis is to gain insights into the data job market, including the availability of different roles, salary ranges, experience level requirements, and other important trends.
 
 ![Dashboard](assets/dashboard.png)
 ![Dashboard](assets/Job_Title_drill_through.png)
 
-## Overview
-In this project, I analyze the data job market to uncover hidden patterns that are often not visible in individual job descriptions. The goal of this analysis is to gain insights into the data job market, including the availability of different roles, salary ranges, experience level requirements, and other important trends.
-
-## 📈 Dataset 
+# 🗂️ Dataset
 The dataset used in this project contains information about jobs in the data industry, including job roles, salaries, experience levels, company characteristics, and work settings. It provides a comprehensive view of the data job market and allows analysis of trends in job demand and compensation.
 
 ## 📈 Dashboard Features
@@ -16,7 +15,6 @@ The Power BI dashboard provides an interactive analysis of the global data job m
 ### 1. Market Overview
 The dashboard begins with key performance indicators that summarize the overall data job market, including:
 - Total number of job postings
-- Median yearly salary
 - Median salary in local currency
 - Salary currency used in the dataset
 - Overall job rating indicator
@@ -33,6 +31,8 @@ A bar chart visualizes the number of job postings for different data-related rol
 
 This helps identify the most in-demand positions in the data industry.
 
+![Dashboard](assets/job_demand.png)
+
 ### 3. Salary Trends Over Time
 A line chart shows the median salary trends from **2020 to 2023** across different experience levels:
 - Entry-level
@@ -41,6 +41,9 @@ A line chart shows the median salary trends from **2020 to 2023** across differe
 - Executive
 
 This visualization highlights how compensation has evolved across years and experience levels.
+
+![Dashboard](assets/Salary_trend.png)
+
 
 ### 4. Work Setting Distribution
 A stacked bar chart illustrates how work settings are distributed across experience levels, comparing:
