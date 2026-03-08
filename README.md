@@ -1,5 +1,8 @@
 # 📊 Data Jobs Market Overview Dashboard
 
+![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Job_Title_drill_through.png)
+
 ## Overview
 In this project, I analyze the data job market to uncover hidden patterns that are often not visible in individual job descriptions. The goal of this analysis is to gain insights into the data job market, including the availability of different roles, salary ranges, experience level requirements, and other important trends.
 
@@ -102,3 +105,6 @@ In some advanced positions such as **Machine Learning Infrastructure**, the majo
 
 ### 7. Medium and large companies drive hiring
 Most job opportunities appear to come from medium and large organizations, suggesting that established companies invest more heavily in data teams.
+
+## 🛠 Tools & Technologies
+
